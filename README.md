@@ -1,5 +1,7 @@
 # Calculadora Simples
 Calculadora simples com operações como soma, subtração, divisão e multiplicação.
+* Link para o projeto em funcionamento:  https://rodrigod324.github.io/calculadora_simples/
+
 * Feito com base neste vídeo: https://www.youtube.com/watch?v=42TShjXR0m0
 * Link do GitHub: https://github.com/Gutoneitzke/calculadora
 <br>
